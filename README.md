@@ -51,7 +51,7 @@ from low to high levels in the dependency graph)
   client in [`linera-web`](https://github.com/linera-io/linera-web/).
 
 * [`linera-service`](https://linera-io.github.io/linera-protocol/linera_service/index.html)
-  Executable for clients (aka CLI wallets), proxy (aka validator frontend) and servers.
+  Executable for clients (aKa CLI wallets), proxy (aka validator frontend) and servers.
 
 * [`linera-sdk`](https://linera-io.github.io/linera-protocol/linera_sdk/index.html) The
   library to develop Linera applications written in Rust for the Wasm virtual machine. The
